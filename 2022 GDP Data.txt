@@ -1,0 +1,354 @@
+{
+  "DATASET": [
+    {
+      "COUNTRY_JA": "米国",
+      "COUNTRY_EN": "United States of America",
+      "GDP": 26462.7,
+      "PER_CAPITA": 76399,
+      "REGION": "North America"
+    },
+    {
+      "COUNTRY_JA": "中国",
+      "COUNTRY_EN": "China",
+      "GDP": 17963.2,
+      "PER_CAPITA": 12720,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "日本",
+      "COUNTRY_EN": "Japan",
+      "GDP": 4231.1,
+      "PER_CAPITA": 33815,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "ドイツ",
+      "COUNTRY_EN": "Germany",
+      "GDP": 4072.2,
+      "PER_CAPITA": 48595,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "インド",
+      "COUNTRY_EN": "India",
+      "GDP": 3385.1,
+      "PER_CAPITA": 2389,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "イギリス",
+      "COUNTRY_EN": "United Kingdom",
+      "GDP": 3070.7,
+      "PER_CAPITA": 45850,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "フランス",
+      "COUNTRY_EN": "France",
+      "GDP": 2782.9,
+      "PER_CAPITA": 40942,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "ロシア",
+      "COUNTRY_EN": "Russia",
+      "GDP": 2240.4,
+      "PER_CAPITA": 15533,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "カナダ",
+      "COUNTRY_EN": "Canada",
+      "GDP": 2139.8,
+      "PER_CAPITA": 54966,
+      "REGION": "North America"
+    },
+    {
+      "COUNTRY_JA": "イタリア",
+      "COUNTRY_EN": "Italy",
+      "GDP": 2010.4,
+      "PER_CAPITA": 34110,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "ブラジル",
+      "COUNTRY_EN": "Brazil",
+      "GDP": 1920.1,
+      "PER_CAPITA": 8918,
+      "REGION": "South America"
+    },
+    {
+      "COUNTRY_JA": "オーストラリア",
+      "COUNTRY_EN": "Australia",
+      "GDP": 1675.4,
+      "PER_CAPITA": 64425,
+      "REGION": "Oceania"
+    },
+    {
+      "COUNTRY_JA": "韓国",
+      "COUNTRY_EN": "South Korea",
+      "GDP": 1665.2,
+      "PER_CAPITA": 32255,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "台湾",
+      "COUNTRY_EN": "Taiwan",
+      "GDP": 1621.7,
+      "PER_CAPITA": 67886,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "メキシコ",
+      "COUNTRY_EN": "Mexico",
+      "GDP": 1414.2,
+      "PER_CAPITA": 11091,
+      "REGION": "North America"
+    },
+    {
+      "COUNTRY_JA": "スペイン",
+      "COUNTRY_EN": "Spain",
+      "GDP": 1397.5,
+      "PER_CAPITA": 29250,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "インドネシア",
+      "COUNTRY_EN": "Indonesia",
+      "GDP": 1319.1,
+      "PER_CAPITA": 4788,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "サウジアラビア",
+      "COUNTRY_EN": "Saudi Arabia",
+      "GDP": 1108.1,
+      "PER_CAPITA": 30436,
+      "REGION": "Middle East"
+    },
+    {
+      "COUNTRY_JA": "オランダ",
+      "COUNTRY_EN": "Netherlands",
+      "GDP": 991.1,
+      "PER_CAPITA": 55992,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "トルコ",
+      "COUNTRY_EN": "Türkiye",
+      "GDP": 906,
+      "PER_CAPITA": 10661,
+      "REGION": "Middle East"
+    },
+    {
+      "COUNTRY_JA": "スイス",
+      "COUNTRY_EN": "Switzerland",
+      "GDP": 807.7,
+      "PER_CAPITA": 92038,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "ポーランド",
+      "COUNTRY_EN": "Poland",
+      "GDP": 688.2,
+      "PER_CAPITA": 18689,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "アルゼンチン",
+      "COUNTRY_EN": "Argentina",
+      "GDP": 632.8,
+      "PER_CAPITA": 13686,
+      "REGION": "South America"
+    },
+    {
+      "COUNTRY_JA": "スウェーデン",
+      "COUNTRY_EN": "Sweden",
+      "GDP": 585.9,
+      "PER_CAPITA": 55873,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "ノルウェー",
+      "COUNTRY_EN": "Norway",
+      "GDP": 579.3,
+      "PER_CAPITA": 106149,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "ベルギー",
+      "COUNTRY_EN": "Belgium",
+      "GDP": 578.6,
+      "PER_CAPITA": 49513,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "アイルランド",
+      "COUNTRY_EN": "Ireland",
+      "GDP": 529.2,
+      "PER_CAPITA": 103224,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "イスラエル",
+      "COUNTRY_EN": "Israel",
+      "GDP": 522,
+      "PER_CAPITA": 54620,
+      "REGION": "Middle East"
+    },
+    {
+      "COUNTRY_JA": "アラブ首長国連邦",
+      "COUNTRY_EN": "United Arab Emirates",
+      "GDP": 507.5,
+      "PER_CAPITA": 53758,
+      "REGION": "Middle East"
+    },
+    {
+      "COUNTRY_JA": "タイ",
+      "COUNTRY_EN": "Thailand",
+      "GDP": 495.3,
+      "PER_CAPITA": 6909,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "ベネズエラ",
+      "COUNTRY_EN": "Venezuela",
+      "GDP": 482.4,
+      "PER_CAPITA": 16056,
+      "REGION": "South America"
+    },
+    {
+      "COUNTRY_JA": "ナイジェリア",
+      "COUNTRY_EN": "Nigeria",
+      "GDP": 477.4,
+      "PER_CAPITA": 2184,
+      "REGION": "Africa"
+    },
+    {
+      "COUNTRY_JA": "エジプト",
+      "COUNTRY_EN": "Egypt",
+      "GDP": 476.7,
+      "PER_CAPITA": 4295,
+      "REGION": "Middle East"
+    },
+    {
+      "COUNTRY_JA": "オーストリア",
+      "COUNTRY_EN": "Austria",
+      "GDP": 471.4,
+      "PER_CAPITA": 52135,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "シンガポール",
+      "COUNTRY_EN": "Singapore",
+      "GDP": 466.8,
+      "PER_CAPITA": 82808,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "バングラデシュ",
+      "COUNTRY_EN": "Bangladesh",
+      "GDP": 460.2,
+      "PER_CAPITA": 2688,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "ベトナム",
+      "COUNTRY_EN": "Vietnam",
+      "GDP": 408.8,
+      "PER_CAPITA": 4164,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "マレーシア",
+      "COUNTRY_EN": "Malaysia",
+      "GDP": 406.3,
+      "PER_CAPITA": 11972,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "南アフリカ",
+      "COUNTRY_EN": "South Africa",
+      "GDP": 405.9,
+      "PER_CAPITA": 6776,
+      "REGION": "Africa"
+    },
+    {
+      "COUNTRY_JA": "フィリピン",
+      "COUNTRY_EN": "Philippines",
+      "GDP": 404.3,
+      "PER_CAPITA": 3499,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "デンマーク",
+      "COUNTRY_EN": "Denmark",
+      "GDP": 395.4,
+      "PER_CAPITA": 66983,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "イラン",
+      "COUNTRY_EN": "Iran",
+      "GDP": 388.5,
+      "PER_CAPITA": 4388,
+      "REGION": "Middle East"
+    },
+    {
+      "COUNTRY_JA": "パキスタン",
+      "COUNTRY_EN": "Pakistan",
+      "GDP": 376.5,
+      "PER_CAPITA": 1597,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "香港",
+      "COUNTRY_EN": "Hong Kong",
+      "GDP": 359.8,
+      "PER_CAPITA": 48984,
+      "REGION": "Asia"
+    },
+    {
+      "COUNTRY_JA": "コロンビア",
+      "COUNTRY_EN": "Columbia",
+      "GDP": 343.9,
+      "PER_CAPITA": 6630,
+      "REGION": "South America"
+    },
+    {
+      "COUNTRY_JA": "ルーマニア",
+      "COUNTRY_EN": "Romania",
+      "GDP": 301.3,
+      "PER_CAPITA": 15817,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "チリ",
+      "COUNTRY_EN": "Chile",
+      "GDP": 301,
+      "PER_CAPITA": 15356,
+      "REGION": "South America"
+    },
+    {
+      "COUNTRY_JA": "チェコ",
+      "COUNTRY_EN": "Czechia",
+      "GDP": 290.9,
+      "PER_CAPITA": 27260,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "フィンランド",
+      "COUNTRY_EN": "Finland",
+      "GDP": 280.8,
+      "PER_CAPITA": 50544,
+      "REGION": "Europe"
+    },
+    {
+      "COUNTRY_JA": "イラク",
+      "COUNTRY_EN": "Iraq",
+      "GDP": 264.2,
+      "PER_CAPITA": 5937,
+      "REGION": "Middle East"
+    }
+  ]
+}
