@@ -1,5 +1,26 @@
 {
-  "DATASET": [
+  "DATASET": [{
+    "NORTH_AMERICA": [
+
+    ],
+    "SOUTH_AMERICA": [
+
+    ],
+    "ASIA": [
+
+    ],
+    "EUROPE": [
+
+    ],
+    "MIDDLE_EAST": [
+
+    ],
+    "AFRICA": [
+
+    ],
+    "OCEANIA": [
+
+    ]
     {
       "COUNTRY_JA": "米国",
       "COUNTRY_EN": "United States of America",
