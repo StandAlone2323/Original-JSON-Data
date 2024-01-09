@@ -1,5 +1,7 @@
 {
-  "DATASET": [{
+  "DATASET": "WORLD_GDP", 
+    "REGIONS",
+    "CHILDREN": [{
     "NORTH_AMERICA": [
     {
       "COUNTRY_JA": "米国",
